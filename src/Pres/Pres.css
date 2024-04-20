@@ -1,0 +1,84 @@
+.inp{
+    display: flex;
+    flex-direction: row;
+    column-gap: 1.5rem;
+    margin-bottom: 1rem;
+    
+}
+.inp input{
+    padding: 5px;
+    width:200px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: #b4f4ce;
+}
+.inp select{
+    padding: 5px;
+    width:200px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color: #9AC8CD;
+}
+.Container_pres{
+    padding: 1rem;
+    border-style: solid ;
+    /* margin:0.4rem; */
+    margin-left:5rem;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: #808080;
+    margin-top: -0.2rem;
+    margin-bottom: 1rem;
+}
+
+.holder{ 
+   margin-top: 1.5rem;
+   font-weight:bolder;
+
+}
+.text{
+    margin-top: 0.7rem;
+    margin-bottom: 0.7rem;
+    width:41.4rem;
+    height:80px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: #b4f4ce;
+    border-radius: 7px;
+    padding:9px;
+}
+
+.sub{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0.7rem;
+}
+.sub input{
+    padding: 9px;
+    width: 4rem;
+    border-radius: 5px;
+    /* border-style: solid;
+    border-width: 1px; */
+    background-color: #32d6e8;
+    border: none;
+    cursor: pointer;
+}
+.inps{
+    display: flex;
+    flex-direction: row;
+    column-gap: 1.5rem;
+    margin-top: 1rem;
+    justify-content: space-between;
+    
+}
+.ab{
+    border-style: solid;
+    border-color:#808080 ;
+    padding: 1rem;
+    border-width: 1px;
+    border-radius: 10px;
+   
+}
+

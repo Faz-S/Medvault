@@ -1,0 +1,14 @@
+.options{
+    display: flex;
+    column-gap: 1.3rem;
+    margin-left: 2.8rem;
+}
+.options select{
+    padding: 10px;
+    padding-right: 16.5rem;
+    border-radius: 10px;
+    border-style:solid;
+    font-size: 14px;
+    font-weight: bolder;
+    border-color: rgb(98, 93, 93);
+}

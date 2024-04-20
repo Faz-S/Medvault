@@ -1,0 +1,31 @@
+.inputs{
+    display: flex;
+    column-gap: 1.6rem;
+    margin:1.3rem;
+    margin-left: 2.7rem;
+}
+.inputs input{
+    padding: 10px;
+    padding-right: 8.5rem;
+    border-radius: 10px;
+    border-style:solid;
+    background-color: rgba(244, 229, 229, 0.714)    ;
+}
+.inputs button{
+    padding:15px;
+    border-radius: 10px;
+    font-size: small;
+    cursor: pointer;
+}
+.btn_1{
+    background-color: black;
+    color:#fff;
+    border:none;
+}
+.btn_2{
+    background-color: #E72929;
+    color: #fff;
+    border-style: solid;
+    border:none;
+   
+}
