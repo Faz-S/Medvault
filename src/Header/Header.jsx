@@ -39,6 +39,9 @@ function Header() {
             </div>
           )} 
     </div>
+    <div style={{cursor:"pointer"}}>
+      <a href="/Voice">  <i className='fas fa-'>voice</i></a>
+    </div>
     <div className='Buttons'>
       
       <button >

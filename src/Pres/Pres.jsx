@@ -1,7 +1,9 @@
 import React from 'react'
 import './Pres.css'
+import Voice from '../Voice/Voice'
 function Pres() {
   return (<>
+
     <div className='Container_pres'>
       <div className='desc'>
         <h2>
@@ -17,15 +19,12 @@ function Pres() {
         <input type='text' placeholder='Enter drug name'></input>
         <p style={{marginRight:"3.6rem"}}>Route</p>
         <input type='text' placeholder='Enter Route'></input>
-        
-      </div>
-      
+      </div> 
       <div className='inp'>
         <p style={{marginRight:"2.8rem"}}>Dose</p>
         <input type='text' placeholder='Enter  Dose'></input>
         <p style={{marginRight:"1.5rem"}}> Start Date</p>
-        <input className="date" type='date' ></input>
-        
+        <input className="date" type='date' ></input> 
       </div>
       <div className='inp'>
         <p style={{marginRight:"0.1rem"}}>Frequency</p>
